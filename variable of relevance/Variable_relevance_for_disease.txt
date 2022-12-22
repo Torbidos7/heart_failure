@@ -1,0 +1,11 @@
+After comparing HeartDisease with other variable, we can easily tell that some of them are a very good indication on whether a person has a heart disease. Some of the ones I realised are:
+
+Age (higher = more risk)
+Sex (males = higher risk)
+ChestPainType (ASY = high risk)
+FastingBS (>120 = high risk)
+RestingECG (Difference not too significant)
+MaxHR (lower = more risk)
+ExerciseAngina (Y = high risk)
+ST_Slope (Down / Flat = high risk)
+Now that our data is ready and we have formed a hypothesis, it's time to move onto the machine learning portion of this challenge.

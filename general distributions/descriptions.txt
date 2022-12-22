@@ -1,0 +1,13 @@
+From the above results, we could see
+
+Male is over represented in the dataset, which could cause bias to the eventual analysis.
+
+Most patients have asymptomatic chest pain.
+
+More than half of the patient have normal ECG.
+
+Exercise angina is present in about 40% of patients.
+
+Most patients have Flat or Up ST slope.
+
+The prevalence of heart disease in this dataset is 55%.

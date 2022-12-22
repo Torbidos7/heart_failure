@@ -1,0 +1,7 @@
+{
+    "installOptions" : {
+        "installDependencies" : true,
+        "installFromRepository" : true,
+        "libraryPath" : "C:/Users/danyb/miniconda3/envs/r_env/Lib/R/library"
+    }
+}
