@@ -90,5 +90,5 @@ Thank you for coming :stuck_out_tongue_closed_eyes:
 
 ## Copyright and license
 
-Code and documentation copyright 2011-2018 the authors. Code released under the [MIT License](https://github.com/Torbidos7/heart_failure/blob/master/LICENSE).
+This project is licensed under the MIT License.
 
